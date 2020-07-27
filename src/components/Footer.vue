@@ -21,11 +21,10 @@
 <style scoped>
 
 footer {
-  height: 100px;
+  padding: 10px 10px;
   grid-column: 2;
   border-top: 2px solid #ccd8d9 ;
-  display: grid;
-  grid-template-columns: 65% 35%;
+
 
 }
 
@@ -33,19 +32,38 @@ footer ul {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
+  justify-content: space-around;
+  padding: 10px;
+  
+  
+  
 }
 
 footer ul li {
-  padding: 20px;
+  /* padding: 25px; */
+  
+}
+
+footer ul li a {
+  color: #75928E;
+  font-size: 130%;
 }
 
 footer p {
-  padding: 20px;
+  text-align: center;
+  padding: 10px;
 }
 
 .copyright {
   font-size: 70%;
 }
 
+@media only screen and (min-width: 768px) {
 
+  footer {
+    display: grid;
+    grid-template-columns: 65% 35%;
+  }
+
+}
 </style>

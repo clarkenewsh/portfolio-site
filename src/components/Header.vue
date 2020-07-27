@@ -58,9 +58,7 @@
     
   }
 
-  section {
-    margin-bottom: 100px;
-  }
+ 
 
   @media only screen and (min-width: 768px) {
   #header {

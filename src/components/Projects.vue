@@ -1,6 +1,6 @@
 <template>
   <section id="projects">
-    <h2>Selected Projects__</h2>
+    <h2>My Projects__</h2>
     <div class="card"></div>
     <figure class="feature-card">
         <h3>PopUps</h3>
@@ -55,7 +55,7 @@
 
 #projects {
     grid-column: 2;
-    text-align: center;
+    
 }
 
 
@@ -65,8 +65,13 @@
     border-top: 8px solid #ccd8d9;
     border-radius: 5px;
     margin: 75px 0px;
-    width: 75%;
+    
 }
+
+  h2 {
+    font-size: 150%;
+    font-weight: 900;
+  }
 
 .feature-card:nth-of-type(1) {
   margin: 0 auto;

@@ -1350,7 +1350,7 @@
 
 
     svg {
-        max-width: 75px;
+        max-width: 65px;
         height: auto;
     }
 </style>

@@ -60,6 +60,17 @@ export default {
   
 }
 
+h1,h2,h3,h4 {
+    /* font-family: 'Playfair Display', serif; */
+    
+    color: black;
+    padding: 15px 0px;
+    
+}
+
+ section {
+    margin-bottom: 100px;
+}
 
 
   @media only screen and (min-width: 768px) {
@@ -77,7 +88,7 @@ export default {
  #app {
     display: grid;
     grid-template-columns: 10% 1fr 10%;
-    grid-gap: 100px;
+    grid-gap: 30px;
     margin: 0;
   }
 
@@ -85,13 +96,7 @@ export default {
 
 
 
-h1,h2,h3,h4 {
-    /* font-family: 'Playfair Display', serif; */
-    
-    color: black;
-    padding: 15px 0px;
-    
-}
+
 
 
 </style>

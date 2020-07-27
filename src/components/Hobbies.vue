@@ -1,6 +1,6 @@
 <template>
     <section id="hobbies">
-        <h3>Things I love to do__</h3>
+        <h2>Things I love to do__</h2>
         <p></p>
         <ul>
             <li><svg id="e2652d7b-d014-44e7-aeea-709bf92e6067" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
@@ -1328,6 +1328,11 @@
     .hobbies {
         text-align: center;
         margin: 100px 0px;
+    }
+
+    h2 {
+        font-size: 150%;
+        font-weight: 900;
     }
 
     ul {

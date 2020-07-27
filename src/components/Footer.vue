@@ -1,13 +1,13 @@
 <template>
    <footer>
      <ul>
-       <li><i class="fab fa-github"></i></li>
-       <li><i class="fab fa-bitbucket"></i></li>
-       <li><i class="fab fa-twitter"></i></li>
-       <li><i class="fas fa-envelope"></i></li>
+       <li><a href="https://github.com/clarkenewsh"><i class="fab fa-github"></i></a></li>
+       <li><a href="https://bitbucket.org/dashboard/repositories"><i class="fab fa-bitbucket"></i></a></li>
+       <li><a href="https://www.linkedin.com/in/clarke-newsham/"><i class="fab fa-linkedin"></i></a></li>
+       <li><a href = "mailto: clarke.newsham92@gmail.com"><i class="fas fa-envelope"></i></a></li>
      </ul>
-     <p>Design and code by Me</p>
-     <p>&copy; 2020 Clarke Newsham</p>
+     <p class="copyright">Design and code by  Clarke Newsham 2020 &copy;</p>
+     <p></p>
 
    </footer>
 </template>
@@ -41,6 +41,10 @@ footer ul li {
 
 footer p {
   padding: 20px;
+}
+
+.copyright {
+  font-size: 70%;
 }
 
 

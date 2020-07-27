@@ -58,6 +58,10 @@
     
   }
 
+  section {
+    margin-bottom: 100px;
+  }
+
   @media only screen and (min-width: 768px) {
   #header {
     display: grid;
@@ -71,7 +75,9 @@
   h1 {
    grid-column: 1/-1;
    grid-row: 1;
-   width: 70%;
+   width: 65%;
+   padding-top: 100px;
+   
   
   }
 
@@ -87,6 +93,12 @@
     
   }
 }
+
+  @media only screen and (min-width: 1400px) {
+    h1 {
+      font-size: 180%;
+    }
+  }
 
   
 </style>

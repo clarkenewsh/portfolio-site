@@ -1,12 +1,13 @@
 <template>
    <footer>
      <ul>
-       <li>social 1</li>
-       <li>social 2</li>
-       <li>social 3</li>
-       <li>social 4</li>
+       <li><i class="fab fa-github"></i></li>
+       <li><i class="fab fa-bitbucket"></i></li>
+       <li><i class="fab fa-twitter"></i></li>
+       <li><i class="fas fa-envelope"></i></li>
      </ul>
      <p>Design and code by Me</p>
+     <p>&copy; 2020 Clarke Newsham</p>
 
    </footer>
 </template>

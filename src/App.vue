@@ -54,7 +54,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
-  margin: 0px 3%;
+  margin: 0px 4%;
   line-height: 1.6;
   
   
@@ -62,9 +62,9 @@ export default {
 
 h1,h2,h3,h4 {
     /* font-family: 'Playfair Display', serif; */
-    
     color: black;
     padding: 15px 0px;
+    
     
 }
 

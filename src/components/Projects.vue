@@ -71,6 +71,7 @@
   h2 {
     font-size: 150%;
     font-weight: 900;
+    
   }
 
 .feature-card:nth-of-type(1) {

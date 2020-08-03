@@ -1333,6 +1333,7 @@
     h2 {
         font-size: 150%;
         font-weight: 900;
+    
     }
 
     ul {

@@ -39,13 +39,15 @@
   span {
     background: #75928E;
     line-height: 1.9;
+    color: white;
     
   }
-
+/* 
   span.underline {
-    /* border-bottom: 2px solid #007A8A; */
+    border-bottom: 5px solid #e6d7d5;;
     font-weight: 700;
-  }
+    line-height: 1;
+  } */
 
  
 
@@ -94,7 +96,7 @@
 
   @media only screen and (min-width: 1400px) {
     h1 {
-      font-size: 180%;
+      font-size: 200%;
     }
   }
 

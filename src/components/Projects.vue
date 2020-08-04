@@ -1,9 +1,9 @@
 <template>
   <section id="projects">
     <h2>My Projects__</h2>
-    <div class="card"></div>
     <figure class="feature-card">
         <h3>PopUps</h3>
+        <hr>
         <h4>Passion Project</h4>
         <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3. </p>
         <img src="../assets/popups-project.png" alt="">
@@ -53,9 +53,13 @@
 
 <style scoped>
 
+hr {
+  width: 50px;
+  height: 3px;
+}
+
 #projects {
-    grid-column: 2;
-    
+    grid-column: 2;    
 }
 
 
@@ -65,14 +69,15 @@
     border-top: 8px solid #ccd8d9;
     border-radius: 5px;
     margin: 75px 0px;
+    max-width: 85%;
     
 }
 
-  h2 {
-    font-size: 150%;
-    font-weight: 900;
-    
-  }
+h2 {
+  font-size: 150%;
+  font-weight: 900;
+  
+}
 
 .feature-card:nth-of-type(1) {
   margin: 0 auto;

@@ -68,7 +68,7 @@ h1,h2 {
 }
 
  section, header {
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 
 

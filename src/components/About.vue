@@ -26,7 +26,7 @@
 
 <style scoped>
   #about {
-    grid-column: 1/-1;
+    grid-column: 2; /* need to figure a way to take this section out of the ccs grid layout so the background can go full width */
     margin-top: 100px;
   }
 
@@ -46,20 +46,26 @@
   }
 
   .diagonal-box {
-    background-image: linear-gradient(45deg, #f5f5f5, #f5f5f5);
-    transform: skewY(-11deg);
+    background-image: linear-gradient(45deg, #f2f2f2, #f2f2f2);
+    transform: skewY(-7deg);
+    
+    
   }
 
   .content {
-    max-width: 50em;
+    /* max-width: 50em; */
     margin: 0 auto;
-    transform: skewY(11deg);
+    transform: skewY(7deg);
   }
 
 
   @media only screen and (min-width: 768px) {
     p {
       padding: 20px 0px 20px 100px;
+    }
+
+    .diagonal-box {
+      min-height: 22em;
     }
 
 

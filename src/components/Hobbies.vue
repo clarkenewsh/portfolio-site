@@ -1501,7 +1501,7 @@
 
 <style scoped>
     #hobbies {
-        grid-column: 1/-1;
+        grid-column: 2;
         text-align: center;
     }
 
@@ -1533,4 +1533,19 @@
         max-width: 65px;
         height: auto;
     }
+
+    @media only screen and (min-width: 768px) {
+
+        svg {
+        max-width: 85px;
+        height: auto;
+    }
+  }
+
+    @media only screen and (min-width: 1400px) {
+         svg {
+        max-width: 105px;
+        height: auto;
+    }
+  }
 </style>

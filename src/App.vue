@@ -60,15 +60,14 @@ export default {
   
 }
 
-h1,h2,h3,h4 {
-    /* font-family: 'Playfair Display', serif; */
+h1,h2 {
     color: black;
     padding: 15px 0px;
     
     
 }
 
- section {
+ section, header {
     margin-bottom: 100px;
 }
 
@@ -82,6 +81,10 @@ h1,h2,h3,h4 {
     margin: 0;
   }
 
+   section, header {
+    margin-bottom: 100px;
+}
+
 }
 
   @media only screen and (min-width: 1400px) {
@@ -91,6 +94,10 @@ h1,h2,h3,h4 {
     grid-gap: 30px;
     margin: 0;
   }
+
+   section, header{
+    margin-bottom: 100px;
+}
 
 }
 

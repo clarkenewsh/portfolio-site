@@ -20,9 +20,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    grid-column: 2;
-    /* font-family: 'Playfair Display', serif; */
-    
+    grid-column: 2;    
   }
 
   
@@ -32,8 +30,6 @@
     margin-top: -140px;
     font-weight: 700;
   }
-
-  
 
 
   span {

@@ -30,20 +30,11 @@
     margin-top: 100px;
   }
 
-  h2 {
-    font-size: 150%;
-    font-weight: 900;
-
-  }
 
   p {
     padding: 20px 0px;
   }
 
-  h3 {
-    /* margin: 20px 0px 20px 35px; */
-
-  }
 
   .diagonal-box {
     background-image: linear-gradient(45deg, #f2f2f2, #f2f2f2);
@@ -61,13 +52,11 @@
 
   @media only screen and (min-width: 768px) {
     p {
-      padding: 20px 0px 20px 100px;
+      padding: 20px 0px 20px 70px;
     }
 
     .diagonal-box {
       min-height: 22em;
     }
-
-
   }
 </style>

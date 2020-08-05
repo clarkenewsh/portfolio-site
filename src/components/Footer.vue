@@ -23,7 +23,7 @@
 footer {
   padding: 10px 10px;
   grid-column: 2;
-  border-top: 2px solid #ccd8d9 ;
+  border-top: 6px solid #ccd8d9 ;
 
 
 }

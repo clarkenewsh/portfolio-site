@@ -1510,11 +1510,6 @@
         margin: 100px 0px;
     }
 
-    h2 {
-        font-size: 150%;
-        font-weight: 900;
-
-    }
 
     ul {
         list-style: none;

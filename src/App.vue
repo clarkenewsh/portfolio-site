@@ -63,8 +63,13 @@ export default {
 h1,h2 {
     color: black;
     padding: 15px 0px;
+    /* font-weight: 900; */
+    font-family: 'Lato', sans-serif;
     
-    
+}
+
+h3, h4 {
+  font-family: 'Lato', sans-serif;
 }
 
  section, header {
@@ -83,9 +88,24 @@ h1,h2 {
 
    section, header {
     margin-bottom: 100px;
-}
+  }
+
+
+  h2 {
+    font-size: 150%;
+    font-weight: 900;
+  }
+
 
 }
+
+ @media only screen and (min-width: 1024px) {
+    
+  h2 {
+    font-size: 200%;
+  }
+
+ }
 
   @media only screen and (min-width: 1400px) {
  #app {

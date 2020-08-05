@@ -28,7 +28,6 @@
   h1 {
     color: #75928E;
     margin-top: -140px;
-    font-weight: 700;
   }
 
 
@@ -71,7 +70,7 @@
   h1 {
    grid-column: 1/-1;
    grid-row: 1;
-   width: 65%;
+   width: 70%;
    padding-top: 100px;
    
   

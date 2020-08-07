@@ -39,6 +39,7 @@ nav ul li {
 }
 nav ul li a {
     color: black;
+    text-decoration: none;
 }
 
 

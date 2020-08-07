@@ -51,7 +51,71 @@
 
       </div>
     </figure>
-    
+     <figure class="feature-card">
+      <div>
+        <h3 class="project-title">UniTap</h3>
+        <h4 class="project-sub-title">Passion Project</h4>
+        <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3.</p>
+      </div>
+      <img src="../assets/popups-thumb.png" alt="">
+      <div class="project-cta">
+        <a href="">View Site</a>
+        <a href="">GitHub</a>
+
+      </div>
+    </figure>
+    <figure class="feature-card">
+      <div>
+        <h3 class="project-title">SpaceX API App</h3>
+        <h4 class="project-sub-title">Passion Project</h4>
+        <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3.</p>
+      </div>
+      <img src="../assets/popups-thumb.png" alt="">
+      <div class="project-cta">
+        <a href="">View Site</a>
+        <a href="">GitHub</a>
+
+      </div>
+    </figure>
+     <figure class="feature-card">
+      <div>
+        <h3 class="project-title">E-commerce Product Page</h3>
+        <h4 class="project-sub-title">Passion Project</h4>
+        <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3.</p>
+      </div>
+      <img src="../assets/popups-thumb.png" alt="">
+      <div class="project-cta">
+        <a href="">View Site</a>
+        <a href="">GitHub</a>
+
+      </div>
+    </figure>
+    <figure class="feature-card">
+      <div>
+        <h3 class="project-title">Europe in 35mm</h3>
+        <h4 class="project-sub-title">Passion Project</h4>
+        <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3.</p>
+      </div>
+      <img src="../assets/popups-thumb.png" alt="">
+      <div class="project-cta">
+        <a href="">View Site</a>
+        <a href="">GitHub</a>
+
+      </div>
+    </figure>
+    <figure class="feature-card">
+      <div>
+        <h3 class="project-title">CRUD App - Laravel and VueJS</h3>
+        <h4 class="project-sub-title">Passion Project</h4>
+        <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3.</p>
+      </div>
+      <img src="../assets/popups-thumb.png" alt="">
+      <div class="project-cta">
+        <a href="">View Site</a>
+        <a href="">GitHub</a>
+
+      </div>
+    </figure>
   </section>
 </template>
 
@@ -97,6 +161,7 @@ h4 {
 img {
   height: auto;
   width: 100%;
+  max-width: 320px;
   align-self: center;
 }
 

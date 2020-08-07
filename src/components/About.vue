@@ -27,7 +27,7 @@
 <style scoped>
   #about {
     grid-column: 2; /* need to figure a way to take this section out of the ccs grid layout so the background can go full width */
-    margin-top: 100px;
+    
   }
 
 
@@ -51,6 +51,10 @@
 
 
   @media only screen and (min-width: 768px) {
+    #about {
+      margin-top: 100px;
+    }
+    
     p {
       padding: 20px 0px 20px 70px;
     }

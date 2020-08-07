@@ -20,7 +20,7 @@
         <h4 class="project-sub-title">Passion Project</h4>
         <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3.</p>
       </div>
-      <img src="../assets/popups-thumb.png" alt="">
+      <img src="../assets/dc-decor-thumb.png" alt="">
       <div class="project-cta">
         <a href="">View Site</a>
         <a href="">GitHub</a>
@@ -32,7 +32,7 @@
         <h4 class="project-sub-title">Passion Project</h4>
         <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3.</p>
       </div>
-      <img src="../assets/popups-thumb.png" alt="">
+      <img src="../assets/landing-fashion-thumb.png" alt="">
       <div class="project-cta">
         <a href="">View Site</a>
         <a href="">GitHub</a>
@@ -44,7 +44,7 @@
         <h4 class="project-sub-title">University Project</h4>
         <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3.</p>
       </div>
-      <img src="../assets/popups-thumb.png" alt="">
+      <img src="../assets/academic-track-thumb.png" alt="">
       <div class="project-cta">
         <a href="">View Site</a>
         <a href="">GitHub</a>
@@ -168,9 +168,14 @@ img {
 
 
   @media only screen and (min-width: 768px) {
+    #projects {
+
+    }
+    
     .feature-card {
       grid-template-columns: 1fr 1fr;
       padding: 25px;
+      width: 70%;
     }
 
    

@@ -2,7 +2,8 @@
   <section id="projects">
     <h2>My Projects__</h2>
     <p>A collection of projects I have been working on. I love to create passion projects to learn new rtechnology and improve my coding skills</p>
-    <figure class="feature-card">
+    <div class="cards">
+      <figure class="feature-card">
       <div>
         <h3 class="project-title">PopUps</h3>
         <h4 class="project-sub-title">Passion Project</h4>
@@ -116,6 +117,7 @@
 
       </div>
     </figure>
+    </div>
   </section>
 </template>
 
@@ -131,6 +133,7 @@
   grid-column: 2;    
 }
 
+
 .feature-card {
   box-shadow: 26px 26px 52px #e0e0e0, -26px -26px 52px #ffffff;
   padding: 15px;
@@ -140,7 +143,10 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 15px;
-    
+}
+
+.feature-card div > * {
+  padding: 5px;
 }
 
 .project-cta {
@@ -168,10 +174,10 @@ img {
 
 
   @media only screen and (min-width: 768px) {
-    #projects {
-
+    .cards {
+      display: grid;
+      grid-template-columns: ;
     }
-    
     .feature-card {
       grid-template-columns: 1fr 1fr;
       padding: 25px;

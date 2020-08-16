@@ -2,14 +2,13 @@
   <section id="about">
     <div class="diagonal-box">
       <div class="content">
-        <h2>A little bit about me__</h2>
-        <p>Hi, I am <strong>Clarke Newsham</strong>, 28 years young based in the <strong>North West</strong> of the UK.
-          I am a final year student, studdyingat Edge Hill Univeristy a final year<strong> Bachelor Web Design and
-            Developement</strong> Undergraduate and aspiring<strong> Web Developer</strong> and <strong> UX
+        <h2>A little about me__</h2>
+        <p>Hi, I'm <strong>Clarke Newsham</strong> based in the<strong>North West, UK.</strong>
+          I am a final year BSc student, studying <strong>Web Design and Development</strong> at Edge Hill Univeristy. Ultimately I am a aspiring<strong> Web Developer</strong> and <strong> UX
             Design</strong> Professional.</p>
         <p>I am curious and furtureistic thinker who relishes the opportunity to design and develop digital products
-          which have a positive impact on the progression of the human race.... this is important to me!!!. I love to
-          stay creative and get my hands dirty with personal passion projects too. Please check them out below!</p>
+          which have a positive impact on the progression of the human race. This is important to me and what excites me about devloping great products! I love to
+          stay creative by getting hands dirty with personal passion projects. Please check them out below!</p>
       </div>
     </div>
 

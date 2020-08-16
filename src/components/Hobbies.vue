@@ -1,6 +1,7 @@
 <template>
     <section id="hobbies">
         <h2>Things that I love__</h2>
+        <p>As much as I like getitng my handy diry solving coding I play equally hard and a handful of strong passions that keep me going!</p>
         <ul>
             <li><svg id="e2652d7b-d014-44e7-aeea-709bf92e6067" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="853.29744" height="818"

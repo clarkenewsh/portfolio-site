@@ -1,7 +1,7 @@
 <template>
     <section id="hobbies">
         <h2>Things that I love__</h2>
-        <p>As much as I like getitng my handy diry solving coding I play equally hard and a handful of strong passions that keep me going!</p>
+        <p>As much as I like getitng my handy dirty in passion projects I love to play hard too!. From exploring the great outdoors and camping, Space Exploration, Travelling to Simualtion Racing and Sports</p>
         <ul>
             <li><svg id="e2652d7b-d014-44e7-aeea-709bf92e6067" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="853.29744" height="818"
@@ -1540,7 +1540,7 @@
 
     @media only screen and (min-width: 1400px) {
          svg {
-        max-width: 105px;
+        max-width: 85px;
         height: auto;
     }
   }

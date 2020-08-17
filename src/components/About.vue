@@ -25,7 +25,7 @@
 
 <style scoped>
   #about {
-    grid-column: 2; /* need to figure a way to take this section out of the ccs grid layout so the background can go full width */
+    grid-column: 1/-1; /* need to figure a way to take this section out of the ccs grid layout so the background can go full width */
     
   }
 
@@ -43,9 +43,10 @@
   }
 
   .content {
-    /* max-width: 50em; */
+    max-width: 45em;
     margin: 0 auto;
     transform: skewY(7deg);
+    padding-top: 100px;
   }
 
 
@@ -59,7 +60,7 @@
     }
 
     .diagonal-box {
-      min-height: 22em;
+      min-height: 29em;
     }
   }
 </style>

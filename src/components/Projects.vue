@@ -176,7 +176,7 @@ img {
   @media only screen and (min-width: 768px) {
     .cards {
       display: grid;
-      grid-template-columns: ;
+      
     }
     .feature-card {
       grid-template-columns: 1fr 1fr;

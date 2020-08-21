@@ -176,12 +176,12 @@ img {
   @media only screen and (min-width: 768px) {
     .cards {
       display: grid;
+      grid-template-columns: 1fr 1fr;
       
     }
     .feature-card {
-      grid-template-columns: 1fr 1fr;
-      padding: 25px;
-      width: 70%;
+      
+      
     }
 
    

@@ -20,7 +20,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    grid-column: 2;    
+    grid-column: 2;
+    
   }
 
   

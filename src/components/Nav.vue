@@ -20,9 +20,20 @@
 nav {
     color: black;
     grid-column: 2;
+    background: white;
     padding: 20px 0px;
 
+
 }
+    
+    
+    /* sticky nav style
+    position: fixed; 
+    top: 0; 
+    z-index: 10;
+    width: 100%;  */
+
+
 
 nav ul li:first-child {
     margin-right: auto; /* splits the logo right from the navigation*/

@@ -28,8 +28,7 @@
     padding: 10px 10px;
     grid-column: 2;
     border-top: 6px solid #ccd8d9;
-    display: grid;
-    grid-template-columns: 2fr 1fr;
+
   }
 
 
@@ -37,12 +36,8 @@
     display: flex;
     flex-wrap: wrap;
     list-style: none;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 10px;
-
-
-
-
   }
 
   footer ul li {
@@ -55,13 +50,10 @@
     font-size: 130%;
   }
 
-  footer p {
-    text-align: center;
-    padding: 10px;
-  }
 
   .copyright {
     font-size: 70%;
+    align-items: baseline;
   }
 
   @media only screen and (min-width: 768px) {

@@ -1501,14 +1501,10 @@
 
 <style scoped>
     #hobbies {
-        grid-column: 2;
+        grid-column: 1/-1;
         text-align: center;
 
-    }
 
-    .hobbies {
-        text-align: center;
-        margin: 100px 0px;
     }
 
 
@@ -1522,8 +1518,10 @@
     }
 
     ul li {
-        padding: 20px;
+        padding: 25px;
     }
+
+
 
     svg {
         max-width: 65px;
@@ -1535,6 +1533,10 @@
         svg {
         max-width: 85px;
         height: auto;
+    }
+
+        ul li:nth-of-type(even) {
+        margin-top: 100px;
     }
   }
 

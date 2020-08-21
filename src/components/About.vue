@@ -37,6 +37,12 @@
     padding: 20px 0px;
   }
 
+  p:nth-of-type(2) {
+     width: 80%;
+     margin-left: auto;
+   }
+
+
 
   .diagonal-box {
     background-image: linear-gradient(45deg, #f2f2f2, #f2f2f2);

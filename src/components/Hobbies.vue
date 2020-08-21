@@ -1,7 +1,6 @@
 <template>
     <section id="hobbies">
-        <h2>Things that I love__</h2>
-        <p>As much as I like getitng my handy dirty in passion projects I love to play hard too!. From exploring the great outdoors and camping, Space Exploration, Travelling to Simualtion Racing and Sports</p>
+        <h2>Things that I love to do__</h2>
         <ul>
             <li><svg id="e2652d7b-d014-44e7-aeea-709bf92e6067" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="853.29744" height="818"
@@ -1504,6 +1503,7 @@
     #hobbies {
         grid-column: 2;
         text-align: center;
+
     }
 
     .hobbies {

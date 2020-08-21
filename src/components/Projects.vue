@@ -1,7 +1,7 @@
 <template>
   <section id="projects">
     <h2>My Projects__</h2>
-    <p>A collection of projects I have been working on. I love to create passion projects to learn new rtechnology and improve my coding skills</p>
+    <!-- <p>A collection of projects I have been working on. I love to create passion projects to learn new rtechnology and improve my coding skills</p> -->
     <div class="cards">
       <figure class="feature-card">
       <div>

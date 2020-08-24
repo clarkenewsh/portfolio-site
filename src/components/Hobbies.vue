@@ -1503,6 +1503,7 @@
 #hobbies {
     grid-column: 1/-1;
     text-align: center;
+    padding: 100px 0px;
 }
 
 

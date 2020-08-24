@@ -2,8 +2,7 @@
   <footer>
     <div class="contact">
       <h3>Connect with me</h3>
-      <p>Please feel free to hit me up via email, I always try to make time for coffee and for meeting new people. I’m
-        also on Instagram, LinkedIn, Dribbble, Twitter</p>
+      <p>Please feel free to hit me up via email, I always try to make time for coffee and for meeting new people.</p>
       <ul>
         <li><a href="https://github.com/clarkenewsh"><i class="fab fa-github"></i></a></li>
         <li><a href="https://bitbucket.org/dashboard/repositories"><i class="fab fa-bitbucket"></i></a></li>
@@ -37,7 +36,7 @@
     flex-wrap: wrap;
     list-style: none;
     justify-content: space-between;
-    padding: 10px;
+    padding: 20px;
   }
 
   footer ul li {
@@ -54,6 +53,7 @@
   .copyright {
     font-size: 70%;
     align-items: baseline;
+    text-align: center;
   }
 
   @media only screen and (min-width: 768px) {

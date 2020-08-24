@@ -69,14 +69,14 @@
     border-radius: 50px;
     font-weight: 700;
     font-size: inherit;
+    margin-top: 90px;
   }
 
     .cta-button:hover,
     .cta-button:active
       {
       background: black;
-      color: white
-     
+      color: white 
     }
 
 

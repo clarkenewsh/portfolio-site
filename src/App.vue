@@ -36,7 +36,7 @@ export default {
 
 .dotted-grid {
   background: white;
-  background-image: radial-gradient(black 1px, transparent 0);
+  background-image: radial-gradient(#75928e 1px, transparent 0);
   background-size: 40px 40px;
   background-position: -19px -19px;
 }

@@ -1,5 +1,5 @@
 <template>
-    <section id="hobbies">
+    <section id="hobbies" class="dotted-grid">
         <h2>Things that I love to do__</h2>
         <ul>
             <li><svg id="e2652d7b-d014-44e7-aeea-709bf92e6067" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
@@ -1500,48 +1500,47 @@
 </script>
 
 <style scoped>
-    #hobbies {
-        grid-column: 2;
-        text-align: center;
-    }
+#hobbies {
+    grid-column: 1/-1;
+    text-align: center;
+}
 
 
-    ul {
-        list-style: none;
-        justify-content: center;
-        align-items: center;
-        display: flex;
-        flex-wrap: wrap;
+ul {
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
 
-    }
-
-    ul li {
-        padding: 25px;
-    }
-
+ul li {
+    padding: 25px;
+}
 
 
-    svg {
-        max-width: 65px;
-        height: auto;
-    }
 
-    @media only screen and (min-width: 768px) {
+svg {
+    max-width: 65px;
+    height: auto;
+}
+
+@media only screen and (min-width: 768px) {
 
         svg {
         max-width: 85px;
         height: auto;
-    }
+        }
 
         ul li:nth-of-type(even) {
         margin-top: 100px;
     }
-  }
+}
 
     @media only screen and (min-width: 1400px) {
-         svg {
+            svg {
         max-width: 85px;
         height: auto;
     }
-  }
+}
 </style>

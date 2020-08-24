@@ -51,11 +51,13 @@ nav ul li {
 nav ul li a {
     color: black;
     text-decoration: none;
+    
+    
 }
 
 
-nav ul li:hover, li:active {
-  color: gray;
+nav ul li a:hover, li:active {
+  border-bottom: 3px solid #ccdbd9;
   cursor: pointer;
   
 }

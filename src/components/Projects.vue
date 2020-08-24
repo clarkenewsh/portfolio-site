@@ -11,11 +11,8 @@
       </div>
       <img src="../assets/popups-thumb.png" alt="">
       <div class="project-cta">
-        <a href="">View Site<i class="fas fa-globe-americas"></i>
-
-        </a>
-        <a href="">View on GitHub<i class="fab fa-github"></i>
-        </a>
+        <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+        <a href="">View on GitHub <i class="fab fa-github"></i></a>
       </div>
     </figure>
     <figure class="feature-card">
@@ -26,8 +23,8 @@
       </div>
       <img src="../assets/dc-decor-thumb.png" alt="">
       <div class="project-cta">
-        <a href="">View Site</a>
-        <a href="">GitHub</a>
+        <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+        <a href="">View on GitHub <i class="fab fa-github"></i></a>
       </div>
     </figure>
    <figure class="feature-card">
@@ -38,8 +35,8 @@
       </div>
       <img src="../assets/landing-fashion-thumb.png" alt="">
       <div class="project-cta">
-        <a href="">View Site</a>
-        <a href="">GitHub</a>
+        <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+        <a href="">View on GitHub <i class="fab fa-github"></i></a>
       </div>
     </figure>
    <figure class="feature-card">
@@ -50,9 +47,8 @@
       </div>
       <img src="../assets/academic-track-thumb.png" alt="">
       <div class="project-cta">
-        <a href="">View Site</a>
-        <a href="">GitHub</a>
-
+        <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+        <a href="">View on GitHub <i class="fab fa-github"></i></a>
       </div>
     </figure>
      <figure class="feature-card">
@@ -63,9 +59,8 @@
       </div>
       <img src="../assets/popups-thumb.png" alt="">
       <div class="project-cta">
-        <a href="">View Site</a>
-        <a href="">GitHub</a>
-
+        <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+        <a href="">View on GitHub <i class="fab fa-github"></i></a>
       </div>
     </figure>
     <figure class="feature-card">
@@ -76,9 +71,8 @@
       </div>
       <img src="../assets/popups-thumb.png" alt="">
       <div class="project-cta">
-        <a href="">View Site</a>
-        <a href="">GitHub</a>
-
+        <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+        <a href="">View on GitHub <i class="fab fa-github"></i></a>
       </div>
     </figure>
      <figure class="feature-card">
@@ -89,9 +83,8 @@
       </div>
       <img src="../assets/popups-thumb.png" alt="">
       <div class="project-cta">
-        <a href="">View Site</a>
-        <a href="">GitHub</a>
-
+        <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+        <a href="">View on GitHub <i class="fab fa-github"></i></a>
       </div>
     </figure>
     <figure class="feature-card">
@@ -102,9 +95,8 @@
       </div>
       <img src="../assets/popups-thumb.png" alt="">
       <div class="project-cta">
-        <a href="">View Site</a>
-        <a href="">GitHub</a>
-
+        <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+        <a href="">View on GitHub <i class="fab fa-github"></i></a>
       </div>
     </figure>
     <figure class="feature-card">
@@ -115,9 +107,8 @@
       </div>
       <img src="../assets/popups-thumb.png" alt="">
       <div class="project-cta">
-        <a href="">View Site</a>
-        <a href="">GitHub</a>
-
+        <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+        <a href="">View on GitHub <i class="fab fa-github"></i></a>
       </div>
     </figure>
     </div>
@@ -140,6 +131,7 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-row-gap: 50px;
+  margin-top: 50px;
 }
 
 
@@ -176,7 +168,7 @@ h4 {
 img {
   height: auto;
   width: 100%;
-  max-width: 320px;
+  max-width: 400px;
   align-self: center;
 }
 
@@ -186,10 +178,10 @@ img {
     .cards {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      grid-gap: 100px;
+      grid-gap: 40px;
       
     }
-    .feature-card {
+    .feature-card:nth-of-type(1){
       
       
     }

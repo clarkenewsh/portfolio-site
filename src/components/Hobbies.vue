@@ -1501,10 +1501,8 @@
 
 <style scoped>
     #hobbies {
-        grid-column: 1/-1;
+        grid-column: 2;
         text-align: center;
-
-
     }
 
 

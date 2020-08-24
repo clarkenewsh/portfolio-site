@@ -11,6 +11,7 @@
             which have a positive impact on the progression of the human race. This is important to me and what excites
             me about devloping great products! I love to
             stay creative by getting hands dirty with personal passion projects. Please check them out below!</p>
+            <button class="cta-button">View my Resume</button>
       <!-- </div>
     </div> -->
 
@@ -59,6 +60,24 @@
     transform: skewY(-12deg);
     padding-top: 100px;
   } */
+
+  .cta-button {
+    background: white;
+    color: black;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: inherit;
+  }
+
+    .cta-button:hover,
+    .cta-button:active
+      {
+      background: black;
+      color: white
+     
+    }
 
 
   @media only screen and (min-width: 768px) {

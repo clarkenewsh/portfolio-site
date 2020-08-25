@@ -132,6 +132,7 @@
   grid-template-columns: 1fr;
   grid-row-gap: 50px;
   margin-top: 50px;
+  text-align: center;
 }
 
 

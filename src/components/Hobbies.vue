@@ -1502,9 +1502,9 @@
 <style scoped>
 #hobbies {
     grid-column: 1/-1;
-    padding: 70px 0px;
+    padding: 50px 0px;
     text-align: center;
-    background: #ccd8d9;
+    background: #eeeeee;
     
 }
 

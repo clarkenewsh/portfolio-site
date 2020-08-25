@@ -41,8 +41,7 @@
 
 
   p:nth-of-type(2) {
-     width: 85%;
-     margin-left: auto;
+    margin-left: 40px;
    }
 
 
@@ -68,8 +67,7 @@
     border: 2px solid black;
     border-radius: 50px;
     font-weight: 700;
-    font-size: inherit;
-    margin-top: 90px;
+    margin-top: 40px;
   }
 
     .cta-button:hover,
@@ -93,6 +91,11 @@
      width: 70%;
      margin-left: auto;
    
+   }
+
+   .cta-button {
+     font-size: 90%;
+     margin-top: 60px;
    }
 
     /* .diagonal-box {

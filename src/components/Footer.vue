@@ -40,20 +40,26 @@
   }
 
   footer ul li {
-    /* padding: 25px; */
+    padding: 15px 0px;
 
   }
 
   footer ul li a {
     color: #75928E;
-    font-size: 130%;
+    font-size: 140%;
   }
+
+  footer .contact > * {
+    padding: 10px 0px;
+  }
+  
 
 
   .copyright {
     font-size: 70%;
     align-items: baseline;
     text-align: center;
+    padding: 10px;
   }
 
   @media only screen and (min-width: 768px) {

@@ -43,8 +43,7 @@ nav ul li a {
 
 
 nav ul li a:hover, li:active {
-  border-bottom: 3px solid #ccdbd9;
-  cursor: pointer; 
+  color: gray;
 }
 
 #brand {
@@ -55,10 +54,9 @@ nav ul li a:hover, li:active {
 }
 
 .download-cta-button {
-
-  background: white;
-  color: black;
-  padding: 15px;
+  background: black;
+  color: white;
+  padding: 10px;
   border: 2px solid black;
   border-radius: 50px;
   font-weight: 700;
@@ -68,8 +66,8 @@ nav ul li a:hover, li:active {
 .download-cta-button:hover,
 .download-cta-button:active
   {
-  background: black;
-  color: white;
+  background: white;
+  color: black;
 }
 
 

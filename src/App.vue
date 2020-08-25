@@ -61,19 +61,18 @@ export default {
 }
 
 h1,h2 {
-    color: black;
-    padding: 15px 0px;
-    /* font-weight: 900; */
-    font-family: 'Lato', sans-serif;
+  color: black;
+  padding: 15px 0px;
+  font-family: 'Playfair Display', serif;
     
 }
 
 h3, h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Playfair Display', serif;
 }
 
  section, header {
-    margin-bottom: 60px;
+  margin-bottom: 60px;
 }
 
 
@@ -82,7 +81,7 @@ h3, h4 {
     display: grid;
     grid-template-columns: 3% 1fr 3%;
     grid-gap: 20px;
-    font-size: 22px;
+    font-size: 20px;
     margin: 0;
   }
 
@@ -104,6 +103,12 @@ h3, h4 {
   h2 {
     font-size: 200%;
   }
+
+  #app {
+    font-size: 22px;
+  }
+
+
 
  }
 

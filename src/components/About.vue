@@ -88,7 +88,7 @@
     }
 
    p:nth-of-type(2) {
-     width: 70%;
+     width: 80%;
      margin-left: auto;
    
    }

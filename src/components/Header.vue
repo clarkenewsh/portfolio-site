@@ -75,6 +75,7 @@
    grid-row: 1;
    width: 70%;
    padding-top: 100px;
+   font-weight: 500;
    
   
   }

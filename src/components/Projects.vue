@@ -151,14 +151,15 @@
 
 .project-cta {
   grid-column: 1/-1;
-  text-align: left;
+  justify-content: center;
+  
 }
 
 .project-cta a {
   color: #75928e;
   padding: 10px;
-  text-decoration: none;
-  font-size: 90%;
+  font-size: 70%;
+
 }
 
 h4 {
@@ -169,8 +170,7 @@ h4 {
 img {
   height: auto;
   width: 100%;
-  max-width: 400px;
-  align-self: center;
+  justify-self: center;
 }
 
 
@@ -182,13 +182,12 @@ img {
       grid-gap: 40px;
       
     }
-    .feature-card:nth-of-type(1){
-      
+
+    img {
+      max-width: 400px;
       
     }
 
-   
-   
   }
 
 

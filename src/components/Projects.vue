@@ -7,7 +7,7 @@
       <div>
         <h3 class="project-title">PopUps</h3>
         <h4 class="project-sub-title">Passion Project</h4>
-        <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The landing page was designed and coded using HTML5 and CC3.</p>
+        <p>PopUps landing page was created on the back of the growing popularity of pop-up reatilers and cusine. Developed using HTML5, CCS3, Flexbox and Netlify</p>
       </div>
       <img src="../assets/popups-thumb.png" alt="">
       <div class="project-cta">
@@ -158,7 +158,7 @@
 .project-cta a {
   color: #75928e;
   padding: 10px;
-  font-size: 70%;
+  font-size: 85%;
 
 }
 

@@ -2,7 +2,6 @@
    <nav>
        <ul> 
            <li><a id="brand" href="#">Portfolio</a></li>
-           <li><a href="#projects">About</a></li>
            <li><a href="#projects">Projects</a></li>
            <li><a href="https://github.com/clarkenewsh">GitHub</a></li>
            <li><a class="download-cta-button" href="">Download Resume</a></li>

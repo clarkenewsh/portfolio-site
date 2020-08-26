@@ -57,7 +57,6 @@
     font-size: 70%;
     align-items: baseline;
     text-align: center;
-
   }
 
   @media only screen and (min-width: 768px) {
@@ -71,6 +70,8 @@
     .copyright {
       grid-column: 1/-1;
       grid-row: 2;
+      text-align: left;
+      padding: 10px 0px;
     }
 
     footer ul {

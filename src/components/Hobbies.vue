@@ -1,6 +1,7 @@
 <template>
     <section id="hobbies">
         <h2>Things that I love to do__</h2>
+        <p>As much as I love to code, I like to play too...</p>
         <ul>
             <li><svg id="e2652d7b-d014-44e7-aeea-709bf92e6067" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="853.29744" height="818"
@@ -1500,51 +1501,54 @@
 </script>
 
 <style scoped>
-#hobbies {
-    grid-column: 1/-1;
-    padding: 50px 0px;
-    text-align: center;
-    background: #eeeeee;
-    
-}
+    #hobbies {
+        grid-column: 1/-1;
+        padding: 50px 0px;
+        text-align: center;
+        background: #eeeeee;
+    }
+
+    h2 {
+        margin-top: -105px;
+    }
 
 
-ul {
-    list-style: none;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    
-}
+    ul {
+        list-style: none;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
 
-ul li {
-    padding: 25px;
-}
+    }
+
+    ul li {
+        padding: 25px;
+    }
 
 
 
-svg {
-    max-width: 60px;
-    height: auto;
-}
+    svg {
+        max-width: 60px;
+        height: auto;
+    }
 
-@media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 768px) {
 
         svg {
-        max-width: 85px;
-        height: auto;
+            max-width: 85px;
+            height: auto;
         }
 
         ul li:nth-of-type(even) {
-        margin-top: 100px;
+            margin-top: 100px;
+        }
     }
-}
 
     @media only screen and (min-width: 1400px) {
-            svg {
-        max-width: 85px;
-        height: auto;
+        svg {
+            max-width: 85px;
+            height: auto;
+        }
     }
-}
 </style>

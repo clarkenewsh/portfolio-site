@@ -1,20 +1,12 @@
 <template>
   <section id="about">
-    <!-- <div class="diagonal-box">
-      <div class="content"> -->
-        <h2>A little bit about me__</h2>
-          <p>Hi, I'm <strong>Clarke Newsham</strong> based in the<strong>North West, UK.</strong>
-            I am a final year BSc student, studying <strong>Web Design and Development</strong> at Edge Hill Univeristy.
-            Ultimately I am a aspiring<strong> Web Developer</strong> and <strong> UX
-              Design</strong> Professional.</p>
-          <p>I am curious and furtureistic thinker who relishes the opportunity to design and develop digital products
-            which have a positive impact on the progression of the human race. This is important to me and what excites
-            me about devloping great products! I love to
-            stay creative by getting hands dirty with personal passion projects. Please check them out below!</p>
-            <button class="cta-button">View my Resume</button>
-      <!-- </div>
-    </div> -->
-
+    <h2>A little bit about me__</h2>
+    <p>Hi, I'm <strong>Clarke Newsham</strong>, final year BSc <strong>Web Design and Development</strong> Undergraduate at Edge Hill Univeristy, based in the<strong>North West, UK.</strong>
+      I am passionate about technology and how we can embrace it to collobrate together to do great things. I aspire to find find a organisation<strong> that share my passion for progression through tech and am activley seeking a postion as a Web Developer</strong> and <strong> UX
+        Design</strong> Professional</p>
+    <p>Curious and furtureistic thinking along with my design and developement skills keep me ambitious to design and develop digital products
+      which have a positive impact on the progression business and society. I love to stay creative and up to date with emerging tech by getting hands dirty with 'personal passion projects' Univeristy projects. Please download my resume and check of my projects below!</p>
+    <button class="cta-button">View my Resume</button>
   </section>
 </template>
 
@@ -29,22 +21,15 @@
 <style scoped>
   #about {
     grid-column: 2;
-    /* need to figure a way to take this section out of the ccs grid layout so the background can go full width */
-
   }
-
 
   p {
     padding: 30px 0px;
   }
 
-
-
   p:nth-of-type(2) {
     margin-left: 40px;
-   }
-
-
+  }
 
   /* .diagonal-box {
     background-image: linear-gradient(45deg, #f2f2f2, #f2f2f2);
@@ -70,12 +55,11 @@
     margin-top: 40px;
   }
 
-    .cta-button:hover,
-    .cta-button:active
-      {
-      background: black;
-      color: white 
-    }
+  .cta-button:hover,
+  .cta-button:active {
+    background: black;
+    color: white
+  }
 
 
   @media only screen and (min-width: 768px) {
@@ -87,16 +71,16 @@
       width: 85%;
     }
 
-   p:nth-of-type(2) {
-     width: 80%;
-     margin-left: auto;
-   
-   }
+    p:nth-of-type(2) {
+      width: 80%;
+      margin-left: auto;
 
-   .cta-button {
-     font-size: 90%;
-     margin-top: 60px;
-   }
+    }
+
+    .cta-button {
+      font-size: 90%;
+      margin-top: 60px;
+    }
 
     /* .diagonal-box {
       min-height: 29em;

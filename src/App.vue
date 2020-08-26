@@ -10,7 +10,6 @@
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
 import Nav from './components/Nav';
 import Header from './components/Header';
 import About from './components/About';
@@ -54,7 +53,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: black;
-  margin: 0px 4%;
+  margin: 0px 3%;
   line-height: 1.6;
   
   
@@ -91,7 +90,7 @@ h3, h4 {
 
 
   h2 {
-    font-size: 150%;
+    font-size: 180%;
     font-weight: 900;
   }
 
@@ -115,12 +114,12 @@ h3, h4 {
   @media only screen and (min-width: 1400px) {
  #app {
     display: grid;
-    grid-template-columns: 10% 1fr 10%;
+    grid-template-columns: 15% 1fr 15%;
     grid-gap: 30px;
     margin: 0;
   }
 
-   section, header{
+   section, header {
     margin-bottom: 100px;
 }
 

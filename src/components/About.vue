@@ -23,11 +23,11 @@
   }
 
   p {
-    padding: 30px 0px;
+    padding-bottom: 30px;
   }
 
   p:nth-of-type(2) {
-    margin-left: 40px;
+    margin-left: 30px;
   }
 
   /* .diagonal-box {

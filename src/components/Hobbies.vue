@@ -1503,14 +1503,13 @@
 <style scoped>
     #hobbies {
         grid-column: 1/-1;
-        padding: 50px 0px;
         text-align: center;
         background: #eeeeee;
     }
 
-    h2 {
+    /* h2 {
         margin-top: -105px;
-    }
+    } */
 
 
     ul {

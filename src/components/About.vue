@@ -1,11 +1,10 @@
 <template>
   <section id="about">
     <h2>A little bit about me__</h2>
-    <p>Hi, I'm <strong>Clarke Newsham</strong>, final year BSc <strong>Web Design and Development</strong> Undergraduate at Edge Hill Univeristy, based in the<strong>North West, UK.</strong>
-      I am passionate about technology and how we can embrace it to collobrate together to do great things. I aspire to find find a organisation<strong> that share my passion for progression through tech and am activley seeking a postion as a Web Developer</strong> and <strong> UX
+    <p>I am passionate about technology and how we can embrace it to collobrate together to do great things. I aspire to find find a organisation<strong> that share my passion for progression through tech and am activley seeking a postion as a Web Developer</strong> and <strong> UX
         Design</strong> Professional</p>
-    <p>Curious and furtureistic thinking along with my design and developement skills keep me ambitious to design and develop digital products
-      which have a positive impact on the progression business and society. I love to stay creative and up to date with emerging tech by getting hands dirty with 'personal passion projects' Univeristy projects. Please download my resume and check of my projects below!</p>
+    <p>Curiosity and furtureistic thinking is what keep me ambitious to design and develop digital products
+      which contribute to the progression business and society. I love to stay creative and up to date with emerging tech by getting hands dirty with 'personal passion projects' Univeristy projects. Please download my resume and check of my projects below!</p>
     <button class="cta-button">View my Resume</button>
   </section>
 </template>
@@ -48,11 +47,11 @@
   .cta-button {
     background: white;
     color: black;
-    padding: 20px;
+    padding: 15px 20px;
     border: 2px solid black;
     border-radius: 50px;
     font-weight: 700;
-    margin-top: 40px;
+    margin-top: 10px;
   }
 
   .cta-button:hover,
@@ -80,6 +79,8 @@
     .cta-button {
       font-size: 90%;
       margin-top: 60px;
+      padding: 20px 30px;
+      margin-top: 40px;
     }
 
     /* .diagonal-box {

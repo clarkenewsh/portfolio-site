@@ -166,7 +166,7 @@
     .cards {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      grid-gap: 90px;
+      grid-gap: 30px;
 
     }
 

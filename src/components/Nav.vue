@@ -73,4 +73,13 @@
     background: white;
     color: black;
   }
+
+  @media only screen and (min-width: 768px) {
+
+    .download-cta-button {
+      padding: 15px 20px;
+    }
+
+
+ }
 </style>

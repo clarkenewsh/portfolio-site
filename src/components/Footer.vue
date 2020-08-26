@@ -77,10 +77,5 @@
     footer ul {
       justify-content: space-evenly;
     }
-
-
-
-
-
   }
 </style>

@@ -1,7 +1,8 @@
 <template>
     <section id="hobbies">
         <h2>Things that I love to do__</h2>
-        <p>As much as I love to code, I like to play too...</p>
+        <p>As much as I love to code, I like to play too. I am a huge NFL and motosport fan, enjoy exploring the great outdoor and travelling
+        </p>
         <ul>
             <li><svg id="e2652d7b-d014-44e7-aeea-709bf92e6067" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="853.29744" height="818"

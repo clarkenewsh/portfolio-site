@@ -63,7 +63,7 @@
           <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
             landing page was designed and coded using HTML5 and CC3.</p>
         </div>
-        <img src="../assets/popups-thumb.png" alt="">
+        <img src="../assets/spacex.jpg" alt="">
         <div class="project-cta">
           <a href="">View Site <i class="fas fa-globe-americas"></i></a>
           <a href="https://github.com/clarkenewsh/SpaceX-WebApp">View on GitHub <i class="fab fa-github"></i></a>

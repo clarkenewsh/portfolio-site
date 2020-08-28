@@ -1,10 +1,8 @@
 <template>
   <section id="about">
     <h2>A little bit about me__</h2>
-    <p>I am passionate about technology and how we can embrace it to collobrate together to do great things. I aspire to find find a organisation<strong> that share my passion for progression through tech and am activley seeking a postion as a Web Developer</strong> and <strong> UX
-        Design</strong> Professional</p>
-    <p>Curiosity and furtureistic thinking is what keep me ambitious to design and develop digital products
-      which contribute to the progression business and society. I love to stay creative and up to date with emerging tech by getting hands dirty with 'personal passion projects' Univeristy projects. Please download my resume and check of my projects below!</p>
+    <p>Hey, I'm Clarke Newsham, aspiring developer from the North West, UK. Im super passionte about tech and how we can embrace to develop great things that contribute to the progression of business and society.</p>
+    <p>Curiosity and furtureistic thinking is what keeps me ambitious to design and develop websites using the skills and technqies I have learned ove the last 4 years. I love to stay creative and up to date with emerging tech by getting hands dirty with 'passion projects' and Univeristy projects. Please <a href="">download</a> my resume and check of my projects below!</p>
     <button class="cta-button">View my Resume</button>
   </section>
 </template>
@@ -66,6 +64,10 @@
       margin-top: 100px;
     }
 
+    p {
+    padding-bottom: 80px;
+    }
+
     p:nth-of-type(1) {
       width: 85%;
     }
@@ -80,7 +82,7 @@
       font-size: 90%;
       margin-top: 60px;
       padding: 20px 30px;
-      margin-top: 40px;
+      margin-top: 20px;
     }
 
     /* .diagonal-box {

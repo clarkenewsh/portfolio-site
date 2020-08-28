@@ -34,11 +34,12 @@ export default {
 <style>
 
 .dotted-grid {
-  background: white;
+  background: rgb(247, 247, 247);
   background-image: radial-gradient(#75928e 1px, transparent 0);
   background-size: 40px 40px;
   background-position: -19px -19px;
 }
+  
 
 * {
   box-sizing: border-box;

@@ -1507,6 +1507,19 @@
         text-align: center;
         background: #eeeeee;
     }
+/* This pseudo class creates a diagonal background style */
+/* #hobbies::before{  
+  bottom: 0;
+  position: absolute;
+  background: inherit;
+  content: " ";
+  height: 100%;
+  left: 0;
+  right: 0;
+  transform: skewY(-10deg);
+  transform-origin: 100%;
+  z-index: -1;
+} */
 
     /* h2 {
         margin-top: -105px;

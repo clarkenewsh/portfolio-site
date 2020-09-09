@@ -1,8 +1,8 @@
 <template>
   <section id="about">
     <h2>A little bit about me__</h2>
-    <p>Hey, I'm Clarke Newsham, aspiring developer from the North West, UK. Im super passionte about tech and how we can embrace to develop great things that contribute to the progression of business and society.</p>
-    <p>Curiosity and furtureistic thinking is what keeps me ambitious to design and develop websites using the skills and technqies I have learned ove the last 4 years. I love to stay creative and up to date with emerging tech by getting hands dirty with 'passion projects' and Univeristy projects. Please <a href="">download</a> my resume and check of my projects below!</p>
+    <p>Hey, I'm Clarke Newsham, aspiring developer from the North West, UK. Im super passionte about tech and how we can embrace it to develop great things that contribute to the progression of business and society.</p>
+    <p>Curiosity and furtureistic thinking is what keeps me ambitious to design and develop websites accessible to all, using the skills and technqies I have learned ove the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building things such as with 'passion projects' and Univeristy projects. Please <a href="">download</a> my resume and check of my projects below!</p>
     <button class="cta-button">View my Resume</button>
   </section>
 </template>

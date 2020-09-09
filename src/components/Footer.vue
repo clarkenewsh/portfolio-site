@@ -2,7 +2,7 @@
   <footer>
     <div class="contact">
       <h3>Connect with me</h3>
-      <p>Please feel free to hit me up via email, I always try to make time for coffee and for meeting new people.</p>
+      <p>Please feel free to hit me up and connect. I always try to make time for coffee and for meeting new people.</p>
       
     </div>
     <ul>

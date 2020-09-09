@@ -45,6 +45,18 @@
       </figure>
       <figure class="feature-card">
         <div>
+          <h3 class="project-title">PaymentShield Portal App</h3>
+          <h4 class="project-sub-title">University Project</h4>
+          <p>A real-life client project to develop a customer portal for a Insurance broker. Developed using React, Contentful etc </p>
+        </div>
+        <img src="../assets/academic-track-thumb.png" alt="">
+        <div class="project-cta">
+          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+          <a href="https://github.com/clarkenewsh/Academic-Tack-WebApp">View on Bitbucket<i class="fab fa-github"></i></a>
+        </div>
+      </figure>
+      <figure class="feature-card">
+        <div>
           <h3 class="project-title">Academic Course Tracker Web App</h3>
           <h4 class="project-sub-title">University Project</h4>
           <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
@@ -58,7 +70,7 @@
       </figure>
       <figure class="feature-card">
         <div>
-          <h3 class="project-title">SpaceX API App</h3>
+          <h3 class="project-title">SpaceX API Client</h3>
           <h4 class="project-sub-title">Passion Project (Live prototype)</h4>
           <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
             landing page was designed and coded using HTML5 and CC3.</p>
@@ -84,8 +96,8 @@
       </figure>
       <figure class="feature-card">
         <div>
-          <h3 class="project-title">CRUD App - Laravel and VueJS</h3>
-          <h4 class="project-sub-title">Passion Project (Live prototype)</h4>
+          <h3 class="project-title">CRUD App - Laravel and VueJS or Uni Questionnaire admin app</h3>
+          <h4 class="project-sub-title">University Project</h4>
           <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
             landing page was designed and coded using HTML5 and CC3.</p>
         </div>
@@ -95,13 +107,59 @@
           <a href="">View on GitHub <i class="fab fa-github"></i></a>
         </div>
       </figure>
+       <figure class="feature-card">
+        <div>
+          <h3 class="project-title">JavaScript Vending Machine - Terminal App</h3>
+          <h4 class="project-sub-title">University</h4>
+          <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
+            landing page was designed and coded using HTML5 and CC3.</p>
+        </div>
+        <img src="../assets/popups-thumb.png" alt="">
+        <div class="project-cta">
+          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+          <a href="">View on GitHub <i class="fab fa-github"></i></a>
+        </div>
+      </figure>
+       <figure class="feature-card">
+        <div>
+          <h3 class="project-title">VueJS Product Page</h3>
+          <h4 class="project-sub-title">Passion Project</h4>
+          <p>A dynamic prodict page developed with Vue JS, Vuetify  and Netlify</p>
+        </div>
+        <img src="../assets/popups-thumb.png" alt="">
+        <div class="project-cta">
+          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+          <a href="">View on GitHub <i class="fab fa-github"></i></a>
+        </div>
+      </figure>
+      <!-- testing vuejs template syntax here, computed values, key binding, data etc -->
+      <figure
+        v-for="project in projects"
+        v-bind:key="project.id"
+        v-bind:title="project.title"
+        class="feature-card">
+          {{ project.title }}
+      </figure>
+      
+
+ 
     </div>
+
   </section>
 </template>
 
 <script>
-  export default {
+  module.exports = {
     name: 'Projects',
+    data: function() {
+      return {
+            projects: [
+            { id: 1, title: 'VusJS Product page & checkout app' },
+            { id: 2, title: 'Blogging with Vue' },
+            { id: 3, title: 'Why Vue is so fun' }
+          ]
+      };
+    }
   }
 </script>
 

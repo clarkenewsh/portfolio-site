@@ -1525,6 +1525,12 @@
         margin-top: -105px;
     } */
 
+    p {
+        max-width: 65%;
+        width: 100%;
+        margin: 0 auto;
+    }
+
 
     ul {
         list-style: none;

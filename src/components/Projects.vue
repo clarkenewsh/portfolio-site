@@ -138,7 +138,7 @@
         v-bind:key="project.id"
         v-bind:title="project.title"
         class="feature-card">
-          {{ project.title }}
+          <h3>{{ project.title }}</h3>
       </figure>
       
 
@@ -155,7 +155,7 @@
       return {
             projects: [
             { id: 1, title: 'VusJS Product page & checkout app' },
-            { id: 2, title: 'Blogging with Vue' },
+            { id: 2, title: 'UniTap App' },
             { id: 3, title: 'Why Vue is so fun' }
           ]
       };
@@ -180,8 +180,8 @@
 
   .feature-card {
     box-shadow: 26px 26px 52px #e0e0e0, -26px -26px 52px #ffffff;
+    border-radius: 20px;
     padding: 15px;
-    border-top: 12px solid #ccd8d9;
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: 20px;

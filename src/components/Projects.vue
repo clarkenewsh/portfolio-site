@@ -1,6 +1,6 @@
 <template>
   <section id="projects">
-    <h2>My Projects__</h2>
+    <h2>My Projects</h2>
     <div class="cards">
       <figure class="feature-card">
         <div>
@@ -31,7 +31,7 @@
       </figure>
       <figure class="feature-card">
         <div>
-          <h3 class="project-title">Fashion Brand landing page </h3>
+          <h3 class="project-title">Fashion Brand Landing Page </h3>
           <h4 class="project-sub-title">Passion Project</h4>
           <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
             landing page was designed and coded using HTML5 and CC3.</p>
@@ -49,7 +49,7 @@
           <h4 class="project-sub-title">University Project</h4>
           <p>A real-life client project to develop a customer portal for a Insurance broker. Developed using React, Contentful etc </p>
         </div>
-        <img src="../assets/academic-track-thumb.png" alt="">
+        <img src="" alt="">
         <div class="project-cta">
           <a href="">View Site <i class="fas fa-globe-americas"></i></a>
           <a href="https://github.com/clarkenewsh/Academic-Tack-WebApp">View on Bitbucket<i class="fab fa-github"></i></a>
@@ -83,50 +83,11 @@
       </figure>
       <figure class="feature-card">
         <div>
-          <h3 class="project-title">Europe in 35mm Website</h3>
-          <h4 class="project-sub-title">Passion Project (Live prototype)</h4>
-          <p>Inspired by a solo interail trip around Europe. A collection of 35mm photos taken while on my journey.
-            Developed using CCS Grid and Netlify</p>
-        </div>
-        <img src="../assets/popups-thumb.png" alt="">
-        <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
-          <a href="">View on GitHub <i class="fab fa-github"></i></a>
-        </div>
-      </figure>
-      <figure class="feature-card">
-        <div>
-          <h3 class="project-title">CRUD App - Laravel and VueJS or Uni Questionnaire admin app</h3>
+          <h3 class="project-title">Survey CMS Platform </h3>
           <h4 class="project-sub-title">University Project</h4>
-          <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
-            landing page was designed and coded using HTML5 and CC3.</p>
+          <p>A CRUD CMS platform aimed at reserachers to create surveys, collect resulting data and to analyse responses.</p>
         </div>
-        <img src="../assets/popups-thumb.png" alt="">
-        <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
-          <a href="">View on GitHub <i class="fab fa-github"></i></a>
-        </div>
-      </figure>
-       <figure class="feature-card">
-        <div>
-          <h3 class="project-title">JavaScript Vending Machine - Terminal App</h3>
-          <h4 class="project-sub-title">University</h4>
-          <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
-            landing page was designed and coded using HTML5 and CC3.</p>
-        </div>
-        <img src="../assets/popups-thumb.png" alt="">
-        <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
-          <a href="">View on GitHub <i class="fab fa-github"></i></a>
-        </div>
-      </figure>
-       <figure class="feature-card">
-        <div>
-          <h3 class="project-title">VueJS Product Page</h3>
-          <h4 class="project-sub-title">Passion Project</h4>
-          <p>A dynamic prodict page developed with Vue JS, Vuetify  and Netlify</p>
-        </div>
-        <img src="../assets/popups-thumb.png" alt="">
+        <img src="" alt="">
         <div class="project-cta">
           <a href="">View Site <i class="fas fa-globe-americas"></i></a>
           <a href="">View on GitHub <i class="fab fa-github"></i></a>
@@ -139,6 +100,8 @@
         v-bind:title="project.title"
         class="feature-card">
           <h3>{{ project.title }}</h3>
+          <p>{{ project.detail }}</p>
+          <a href="">'View on GitHub<i class="fab fa-github"></i></a>
       </figure>
       
 
@@ -149,38 +112,43 @@
 </template>
 
 <script>
-  module.exports = {
-    name: 'Projects',
-    data: function() {
-      return {
-            projects: [
-            { id: 1, title: 'VusJS Product page & checkout app' },
-            { id: 2, title: 'UniTap App' },
-            { id: 3, title: 'Why Vue is so fun' }
-          ]
-      };
-    }
-  }
+  // module.exports = {
+  //   name: 'Projects',
+  //   data: function() {
+  //     return {
+  //           projects: [
+  //           { id: 1, title: 'UniTap', detail: 'A water refill point locator for University campus in a affect to reduce single use plastics', link:'https://github.com/clarkenewsh/Uni-Tap' },
+  //           { id: 2, title: 'UniTap App' },
+  //           { id: 3, title: 'Why Vue is so fun' }
+  //         ]
+  //     };
+  //   }
+  // }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
   #projects {
     grid-column: 2;
+    text-align: center;
+  }
+
+  h2 {
+    margin-bottom: 50px;
   }
 
   .cards {
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 70px;
-    
     text-align: center;
   }
 
 
   .feature-card {
-    box-shadow: 26px 26px 52px #e0e0e0, -26px -26px 52px #ffffff;
-    border-radius: 20px;
+    /* box-shadow: 26px 26px 52px #e0e0e0, -26px -26px 52px #ffffff; */
+    border: 3px solid black;
+    /* border-radius: 25px; */
     padding: 15px;
     display: grid;
     grid-template-columns: 1fr;
@@ -191,7 +159,7 @@
     font-size: 90%;
   }
 
-  .feature-card div>* {
+  .feature-card div > * {
     padding: 5px;
   }
 

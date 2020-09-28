@@ -1,6 +1,6 @@
 <template>
     <section id="hobbies">
-        <h2>Things that I love to do__</h2>
+        <h2>Things that I love to do</h2>
         <p>As much as I love to code, I like to play too. I am a huge NFL and motosport fan, enjoy exploring the great outdoor and travelling
         </p>
         <ul>

@@ -66,7 +66,7 @@
     }
 
     p {
-    padding-bottom: 80px;
+    padding-bottom: 70px;
     }
 
     p:nth-of-type(1) {

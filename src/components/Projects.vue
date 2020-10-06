@@ -52,7 +52,7 @@
         <img src="" alt="">
         <div class="project-cta">
           <a href="">View Site <i class="fas fa-globe-americas"></i></a>
-          <a href="https://github.com/clarkenewsh/Academic-Tack-WebApp">View on Bitbucket<i class="fab fa-github"></i></a>
+          <a href="https://bitbucket.org/team2employability/paymentshield/src/master/">View on Bitbucket<i class="fab fa-github"></i></a>
         </div>
       </figure>
       <figure class="feature-card">
@@ -89,8 +89,7 @@
         </div>
         <img src="" alt="">
         <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
-          <a href="">View on GitHub <i class="fab fa-github"></i></a>
+          <a href="https://bitbucket.org/23686014/questionaireadminapp/src/master/">View on GitHub <i class="fab fa-github"></i></a>
         </div>
       </figure>
       <!-- testing vuejs template syntax here, computed values, key binding, data etc -->

@@ -1,7 +1,7 @@
 <template>
   <section id="header">
     <img src="../assets/portrait-large.jpeg" alt="Clarke portrait image">
-    <h1>Hi, I'm Clarke Newsham. I am a final year Bsc Web Design and Developement Undergraduate. Passionate about solving real world problems througth the realm of UX Design and Web Development</h1>
+    <h1>Hi, I'm Clarke Newsham. I am a final year Bsc Web Design and Development Undergraduate. Passionate about solving real-world problems through the realm of UX Design and Web Development</h1>
   </section>
 </template>
 

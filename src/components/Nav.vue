@@ -4,7 +4,7 @@
       <li><a id="brand" href="#">Portfolio</a></li>
       <li><a href="#projects">Projects</a></li>
       <li><a href="https://github.com/clarkenewsh">GitHub</a></li>
-      <li><a class="download-cta-button" href="https://www.dropbox.com/s/7hxyre7cr5w003t/Clarke%20Newsham%20Resume%20-%20Web%20Dev%20%26%20testing.pdf?dl=0">Download Resume</a></li>
+      <li><a class="download-cta-button" href="https://www.dropbox.com/s/ljwyhjmx3twh4a8/PORTFOLIO%20CV%20-%20UX%3AWEB%3ATESTING.pdf?dl=0">Download Resume</a></li>
     </ul>
   </nav>
 </template>

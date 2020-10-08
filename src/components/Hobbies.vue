@@ -1554,6 +1554,10 @@
 
     @media only screen and (min-width: 768px) {
 
+        #hobbies {
+            padding: 120px 0px;
+        }
+
         svg {
             max-width: 85px;
             height: auto;

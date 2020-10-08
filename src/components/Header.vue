@@ -30,6 +30,7 @@
   h1 {
     color: #75928E;
     margin-top: -140px;
+    padding: 10px;
   }
 
 

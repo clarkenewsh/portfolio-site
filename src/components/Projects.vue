@@ -31,7 +31,7 @@
       </figure>
       <figure class="feature-card">
         <div>
-          <h3 class="project-title">Fashion Brand Landing Page </h3>
+          <h3 class="project-title">Fashion Brand Landing Page</h3>
           <h4 class="project-sub-title">Passion Project</h4>
           <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
             landing page was designed and coded using HTML5 and CC3.</p>
@@ -47,7 +47,7 @@
         <div>
           <h3 class="project-title">PaymentShield Portal App</h3>
           <h4 class="project-sub-title">University Project</h4>
-          <p>A real-life client project to develop a customer portal for a Insurance broker. Developed using React, Contentful etc </p>
+          <p>A real-life client project to develop a customer portal for a Insurance broker. Developed using React, Contentful and Heroku.</p>
         </div>
         <img src="" alt="">
         <div class="project-cta">
@@ -59,8 +59,7 @@
         <div>
           <h3 class="project-title">Academic Course Tracker Web App</h3>
           <h4 class="project-sub-title">University Project</h4>
-          <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
-            landing page was designed and coded using HTML5 and CC3.</p>
+          <p>Second year university project to model and develop a Academic Course Tracker aimed at academics to manage and show course data and related learning. Developed using vanllia JavaScript and deployed with Netlify.</p>
         </div>
         <img src="../assets/academic-track-thumb.png" alt="">
         <div class="project-cta">
@@ -72,8 +71,7 @@
         <div>
           <h3 class="project-title">SpaceX API Client</h3>
           <h4 class="project-sub-title">Passion Project (Live prototype)</h4>
-          <p>PopUps Landing page was created on the back of the growing popularity of pop-up reatilers and cusine. The
-            landing page was designed and coded using HTML5 and CC3.</p>
+          <p>Space X Api client GUI showing recent launches, rocket data and more cool stuff!</p>
         </div>
         <img src="../assets/spacex.jpg" alt="">
         <div class="project-cta">
@@ -85,7 +83,7 @@
         <div>
           <h3 class="project-title">Survey CMS Platform </h3>
           <h4 class="project-sub-title">University Project</h4>
-          <p>A CRUD CMS platform aimed at reserachers to create surveys, collect resulting data and to analyse responses.</p>
+          <p>A CRUD CMS platform aimed at reserachers to create surveys, collect resulting data and to analyse responses. Developed with PHP/Laravel and MySql</p>
         </div>
         <img src="" alt="">
         <div class="project-cta">

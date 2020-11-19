@@ -24,6 +24,7 @@
       <li>CRUD Apps</li>
       <li>MVC Architecture</li>
     </ul>
+    <h3>Soft Skills</h3>
     <p>Please find out more about my skills and work experiences and <a href="">View My Resume</a></p>
   </section>
 </template>

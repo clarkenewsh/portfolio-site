@@ -85,7 +85,7 @@
           <h4 class="project-sub-title">Passion Project (Live prototype)</h4>
           <p>A water re-fill locator for my university campus in an effort to reduce the use of single-use plastics. Developed using HTML5, CSS, JavaScript, Apache Cordova & hosted with Netlify</p>
         </div>
-        <img src="../assets/" alt="">
+        <img src="" alt="">
         <div class="project-cta">
           <a href="">View Site <i class="fas fa-globe-americas"></i></a>
           <a href="https://github.com/clarkenewsh/Uni-Tap">View on GitHub <i class="fab fa-github"></i></a>

@@ -121,18 +121,23 @@
 </template>
 
 <script>
-  // module.exports = {
-  //   name: 'Projects',
-  //   data: function() {
-  //     return {
-  //           projects: [
-  //           { id: 1, title: 'UniTap', detail: 'A water refill point locator for University campus in a affect to reduce single use plastics', link:'https://github.com/clarkenewsh/Uni-Tap' },
-  //           { id: 2, title: 'UniTap App' },
-  //           { id: 3, title: 'Why Vue is so fun' }
-  //         ]
-  //     };
-  //   }
-  // }
+    export default {
+    name: 'Projects',
+
+  }
+    
+    // data: function() {
+    //   return {
+    //         projects: [
+    //         { id: 1, title: 'UniTap', detail: 'A water refill point locator for University campus in a affect to reduce single use plastics', link:'https://github.com/clarkenewsh/Uni-Tap' },
+    //         { id: 2, title: 'UniTap App' },
+    //         { id: 3, title: 'Why Vue is so fun' }
+    //       ]
+    //   };
+    // }
+  
+
+
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

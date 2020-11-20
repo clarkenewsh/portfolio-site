@@ -103,7 +103,7 @@
         </div>
       </figure>
       <!-- testing vuejs template syntax here, computed values, key binding, data etc -->
-      <figure
+      <!-- <figure
         v-for="project in projects"
         v-bind:key="project.id"
         v-bind:title="project.title"
@@ -112,7 +112,7 @@
           <p>{{ project.detail }}</p>
           <a href="">'View on GitHub<i class="fab fa-github"></i></a>
       </figure>
-      
+       -->
 
  
     </div>

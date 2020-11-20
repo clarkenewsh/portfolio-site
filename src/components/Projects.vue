@@ -81,6 +81,18 @@
       </figure>
       <figure class="feature-card">
         <div>
+          <h3 class="project-title">UniTap</h3>
+          <h4 class="project-sub-title">Passion Project (Live prototype)</h4>
+          <p>A water re-fill locator for my university campus to jelp reduce the use of single-use plastics</p>
+        </div>
+        <img src="../assets/" alt="">
+        <div class="project-cta">
+          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+          <a href="">View on GitHub <i class="fab fa-github"></i></a>
+        </div>
+      </figure>
+      <figure class="feature-card">
+        <div>
           <h3 class="project-title">Survey CMS Platform </h3>
           <h4 class="project-sub-title">University Project</h4>
           <p>A CRUD CMS platform aimed at reserachers to create surveys, collect resulting data and to analyse responses. Developed with PHP/Laravel and MySql</p>

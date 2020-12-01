@@ -4,7 +4,7 @@
     <p>Hey, I'm Clarke Newsham, aspiring Web Developer &#38; Software Tester from the North West, UK. I'm super passionate about tech and how we can embrace it to develop great things for humanity.</p>
     <p>Curiosity and futuristic thinking are what keeps me ambitious to design and develop web apps accessible to all, using the skills and techniques I have learned over the last 4 years. I love to stay creative and up to date with emerging tech and development techniques by getting hands dirty building side projects and University studies. Please view my resume and check out my projects below!
 </p>
-    <a href="https://www.dropbox.com/s/72o7mftvgbhbanz/ClarkeNewshamResumeTesting.pdf?dl=0"><button class="cta-button">View my Resume</button></a>
+    <a href="hhttps://www.dropbox.com/s/rp4i5d2upk9no1g/Clarke_Newsham_Resume.pdf?dl=0"><button class="cta-button">View my Resume</button></a>
   </section>
 </template>
 

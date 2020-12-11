@@ -11,7 +11,7 @@
         </div>
         <img src="../assets/popups-thumb.png" alt="">
         <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+
           <a href="https://github.com/clarkenewsh/PopUps-Landing-Page">View on GitHub <i class="fab fa-github"></i></a>
         </div>
       </figure>
@@ -24,7 +24,7 @@
         </div>
         <img src="../assets/dc-decor-thumb.png" alt="">
         <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+
           <a href="https://github.com/clarkenewsh/DC-Decorating-Services-Site">View on GitHub <i
               class="fab fa-github"></i></a>
         </div>
@@ -38,7 +38,7 @@
         </div>
         <img src="../assets/landing-fashion-thumb.png" alt="">
         <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+
           <a href="https://github.com/clarkenewsh/LandingPage-FashionMarketing">View on GitHub <i
               class="fab fa-github"></i></a>
         </div>
@@ -47,23 +47,26 @@
         <div>
           <h3 class="project-title">PaymentShield Portal App</h3>
           <h4 class="project-sub-title">University Project</h4>
-          <p>A real-life client project to develop a customer portal for a Insurance broker. Developed using React, Contentful and Heroku.</p>
+          <p>A real-life client project to develop a customer portal for a Insurance broker. Developed using React,
+            Contentful and Heroku.</p>
         </div>
         <img src="" alt="">
         <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
-          <a href="https://bitbucket.org/team2employability/paymentshield/src/master/">View on Bitbucket<i class="fab fa-github"></i></a>
+
+          <a href="https://bitbucket.org/team2employability/paymentshield/src/master/">View on Bitbucket<i
+              class="fab fa-github"></i></a>
         </div>
       </figure>
       <figure class="feature-card">
         <div>
           <h3 class="project-title">Academic Course Tracker Web App</h3>
           <h4 class="project-sub-title">University Project</h4>
-          <p>Second year university project to model and develop a Academic Course Tracker aimed at academics to manage and show course data and related learning. Developed using vanllia JavaScript and deployed with Netlify.</p>
+          <p>Second year university project to model and develop a Academic Course Tracker aimed at academics to manage
+            and show course data and related learning. Developed using vanllia JavaScript and deployed with Netlify.</p>
         </div>
         <img src="../assets/academic-track-thumb.png" alt="">
         <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+
           <a href="https://github.com/clarkenewsh/Academic-Tack-WebApp">View on GitHub <i class="fab fa-github"></i></a>
         </div>
       </figure>
@@ -75,7 +78,7 @@
         </div>
         <img src="../assets/spacex.jpg" alt="">
         <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
+
           <a href="https://github.com/clarkenewsh/SpaceX-WebApp">View on GitHub <i class="fab fa-github"></i></a>
         </div>
       </figure>
@@ -83,7 +86,8 @@
         <div>
           <h3 class="project-title">UniTap</h3>
           <h4 class="project-sub-title">Passion Project (Live prototype)</h4>
-          <p>A water re-fill locator for my university campus in an effort to reduce the use of single-use plastics. Developed using HTML5, CSS, JavaScript, Apache Cordova & hosted with Netlify</p>
+          <p>A water re-fill locator for my university campus in an effort to reduce the use of single-use plastics.
+            Developed using HTML5, CSS, JavaScript, Apache Cordova & hosted with Netlify</p>
         </div>
         <img src="" alt="">
         <div class="project-cta">
@@ -95,11 +99,13 @@
         <div>
           <h3 class="project-title">Survey CMS Platform </h3>
           <h4 class="project-sub-title">University Project</h4>
-          <p>A CRUD CMS platform aimed at reserachers to create surveys, collect resulting data and to analyse responses. Developed with PHP/Laravel and MySql</p>
+          <p>A CRUD CMS platform aimed at reserachers to create surveys, collect resulting data and to analyse
+            responses. Developed with PHP/Laravel and MySql</p>
         </div>
         <img src="" alt="">
         <div class="project-cta">
-          <a href="https://bitbucket.org/23686014/questionaireadminapp/src/master/">View on GitHub <i class="fab fa-github"></i></a>
+          <a href="https://bitbucket.org/23686014/questionaireadminapp/src/master/">View on GitHub <i
+              class="fab fa-github"></i></a>
         </div>
       </figure>
       <!-- testing vuejs template syntax here, computed values, key binding, data etc -->
@@ -114,30 +120,27 @@
       </figure>
        -->
 
- 
+
     </div>
 
   </section>
 </template>
 
 <script>
-    export default {
+  export default {
     name: 'Projects',
 
   }
-    
-    // data: function() {
-    //   return {
-    //         projects: [
-    //         { id: 1, title: 'UniTap', detail: 'A water refill point locator for University campus in a affect to reduce single use plastics', link:'https://github.com/clarkenewsh/Uni-Tap' },
-    //         { id: 2, title: 'UniTap App' },
-    //         { id: 3, title: 'Why Vue is so fun' }
-    //       ]
-    //   };
-    // }
-  
 
-
+  // data: function() {
+  //   return {
+  //         projects: [
+  //         { id: 1, title: 'UniTap', detail: 'A water refill point locator for University campus in a affect to reduce single use plastics', link:'https://github.com/clarkenewsh/Uni-Tap' },
+  //         { id: 2, title: 'UniTap App' },
+  //         { id: 3, title: 'Why Vue is so fun' }
+  //       ]
+  //   };
+  // }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
@@ -173,7 +176,7 @@
     font-size: 90%;
   }
 
-  .feature-card div > * {
+  .feature-card div>* {
     padding: 5px;
   }
 

@@ -11,7 +11,6 @@
         </div>
         <img src="../assets/popups-thumb.png" alt="">
         <div class="project-cta">
-
           <a href="https://github.com/clarkenewsh/PopUps-Landing-Page">View on GitHub <i class="fab fa-github"></i></a>
         </div>
       </figure>
@@ -24,7 +23,6 @@
         </div>
         <img src="../assets/dc-decor-thumb.png" alt="">
         <div class="project-cta">
-
           <a href="https://github.com/clarkenewsh/DC-Decorating-Services-Site">View on GitHub <i
               class="fab fa-github"></i></a>
         </div>
@@ -38,7 +36,6 @@
         </div>
         <img src="../assets/landing-fashion-thumb.png" alt="">
         <div class="project-cta">
-
           <a href="https://github.com/clarkenewsh/LandingPage-FashionMarketing">View on GitHub <i
               class="fab fa-github"></i></a>
         </div>
@@ -52,7 +49,6 @@
         </div>
         <img src="" alt="">
         <div class="project-cta">
-
           <a href="https://bitbucket.org/team2employability/paymentshield/src/master/">View on Bitbucket<i
               class="fab fa-github"></i></a>
         </div>
@@ -66,7 +62,6 @@
         </div>
         <img src="../assets/academic-track-thumb.png" alt="">
         <div class="project-cta">
-
           <a href="https://github.com/clarkenewsh/Academic-Tack-WebApp">View on GitHub <i class="fab fa-github"></i></a>
         </div>
       </figure>
@@ -78,7 +73,6 @@
         </div>
         <img src="../assets/spacex.jpg" alt="">
         <div class="project-cta">
-
           <a href="https://github.com/clarkenewsh/SpaceX-WebApp">View on GitHub <i class="fab fa-github"></i></a>
         </div>
       </figure>
@@ -91,7 +85,6 @@
         </div>
         <img src="" alt="">
         <div class="project-cta">
-          <a href="">View Site <i class="fas fa-globe-americas"></i></a>
           <a href="https://github.com/clarkenewsh/Uni-Tap">View on GitHub <i class="fab fa-github"></i></a>
         </div>
       </figure>

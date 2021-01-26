@@ -95,7 +95,6 @@
           <p>A CRUD CMS platform aimed at reserachers to create surveys, collect resulting data and to analyse
             responses. Developed with PHP/Laravel and MySql</p>
         </div>
-        <img src="" alt="">
         <div class="project-cta">
           <a href="https://bitbucket.org/23686014/questionaireadminapp/src/master/">View on GitHub <i
               class="fab fa-github"></i></a>
@@ -108,7 +107,6 @@
           <p>A 3rd Year University Project. A Cross-Platform mobile game, Connect-4 and comprehensive Testing Stratergy.
             Developed in EmberJS and deployed with Apache Cordova</p>
         </div>
-        <img src="" alt="">
         <div class="project-cta">
           <a href="https://github.com/clarkenewsh/connect-four-game">View on GitHub<i class="fab fa-github"></i></a>
         </div>

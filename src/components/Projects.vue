@@ -108,7 +108,7 @@
           <p>A 3rd Year University Project. A Cross-Platform mobile game, Connect-4 and comprehensive Testing Stratergy.
             Developed in EmberJS and deployed with Apache Cordova</p>
         </div>
-        <img src="../assets/connect4-thumb.png" alt="">
+        <img src="" alt="">
         <div class="project-cta">
           <a href="https://github.com/clarkenewsh/connect-four-game">View on GitHub<i class="fab fa-github"></i></a>
         </div>

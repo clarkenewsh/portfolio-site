@@ -101,6 +101,30 @@
               class="fab fa-github"></i></a>
         </div>
       </figure>
+      <figure class="feature-card">
+        <div>
+          <h3 class="project-title">Connect-4 Mobile Game</h3>
+          <h4 class="project-sub-title">University Project</h4>
+          <p>A 3rd Year University Project. A Cross-Platform mobile game, Connect-4 and comprehensive Testing Stratergy.
+            Developed in EmberJS and deployed with Apache Cordova</p>
+        </div>
+        <img src="" alt="">
+        <div class="project-cta">
+          <a href="https://github.com/clarkenewsh/connect-four-game">View on GitHub<i class="fab fa-github"></i></a>
+        </div>
+      </figure>
+      <figure class="feature-card">
+        <div>
+          <h3 class="project-title">Usability Testing and Data Analayis</h3>
+          <h4 class="project-sub-title">University Project</h4>
+          <p>A Final year Usability Testing and Data Analysis Module project. Implementation of Usability Testing, Performace and Accessiblity Improvements and
+            Analysis findings for a real life client, Total Swimming. Developed using HTML5, CSS3 and Bootstrap. Deployed with Nelify</p>
+        </div>
+        <img src="" alt="">
+        <div class="project-cta">
+          <a href="https://github.com/clarkenewsh/cis3160-usability-testing-improvements">View on GitHub<i class="fab fa-github"></i></a>
+        </div>
+      </figure>
       <!-- testing vuejs template syntax here, computed values, key binding, data etc -->
       <!-- <figure
         v-for="project in projects"

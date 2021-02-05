@@ -173,7 +173,6 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-row-gap: 70px;
-    text-align: center;
   }
 
 

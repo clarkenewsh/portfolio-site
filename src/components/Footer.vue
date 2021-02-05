@@ -11,7 +11,7 @@
         <li><a href="https://www.linkedin.com/in/clarke-newsham/"><i class="fab fa-linkedin"></i></a></li>
         <li><a href="mailto: clarke.newsham92@gmail.com"><i class="fas fa-envelope"></i></a></li>
       </ul>
-    <p class="copyright">Design and code by Clarke Newsham 2020 &copy; &#9996;</p>
+    <p class="copyright">Design and code by Clarke Newsham 2021 &copy; &#9996;</p>
   </footer>
 </template>
 

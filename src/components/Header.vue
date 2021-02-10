@@ -9,6 +9,16 @@
 
   export default {
     name: 'Header',
+
+    // scroll reveal animation libray placed on header
+    // methods: {
+    //   scrollRevealAnimation() {
+    //     ScrollReveal().reveal('#header');
+    //   }
+   
+
+    // },
+    
   }
   
 </script>
